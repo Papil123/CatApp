@@ -1,0 +1,23 @@
+#navbar{
+    display: flex;
+    background-color: aliceblue;
+    height: 20px;
+    width: 90%;
+    justify-content: space-around;
+    margin: auto;
+    padding: 30px;
+ }
+
+ #container{
+    display: flex;
+    width: 80%;
+    justify-content:space-between;
+    gap: 100px;
+    margin: auto;
+    margin-top: 60px;
+ }
+
+ img{
+    height: 400px;
+    width: 500px;
+ }
